@@ -1,3 +1,12 @@
+FullStack Application Created using
+
+Frontend - ReactJS
+Backend - Springboot
+API - Postman
+DataBase - MYSQL
+
+This is a demo project.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
